@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Video CURD test","This will get a videogame list","SUCCESS","2021-07-20T00:39:47.379+01:00[Europe/London]","0.0","11.23"
+"Video CURD test","This will create a new videogame","SUCCESS","2021-07-20T00:39:58.695+01:00[Europe/London]","0.0","1.62"
+"Video CURD test","This will get videogame by id","SUCCESS","2021-07-20T00:40:00.314+01:00[Europe/London]","0.0","0.09"
+"Video CURD test","This test will update the video game by existing id","SUCCESS","2021-07-20T00:40:00.406+01:00[Europe/London]","0.0","1.57"
+"Video CURD test","This will delete a new videogame","SUCCESS","2021-07-20T00:40:01.983+01:00[Europe/London]","0.0","0.09"
